@@ -1,0 +1,40 @@
+.navbar {
+  position: fixed;
+  z-index: 9999;
+  width: 100%;
+  top: 0;
+}
+
+.carousel {
+  margin-top: 76px;
+}
+
+.anchor {
+  text-decoration: none;
+  color: white;
+  cursor: pointer;
+  padding: 2px;
+  border-bottom: 4px solid transparent;
+}
+
+.anchor:hover {
+  border-bottom: 4px solid white;
+  border-radius: 1px;
+}
+
+.go-top {
+  position: fixed;
+  bottom: 10px;
+  right: 10px;
+  padding: 20px;
+  border-radius: 3px;
+  cursor: pointer;
+}
+
+.text-dark {
+  color: black;
+}
+
+.border-dark {
+  border: 1px solid black;
+}
