@@ -41,7 +41,6 @@
 
 ## 📫 Connect With Me
 - LinkedIn: www.linkedin.com/in/nagnath-edake-3ba7a7220
-- GitHub: https://github.com/NagnathEdake
 
 ---
 
