@@ -1,11 +1,9 @@
 # Hi 👋, I'm Nagnath 
 
 ## 🚀 About Me
-💻 Full Stack Developer passionate about building scalable web applications and learning modern technologies.
-
 🌱 Currently improving my skills in Backend Development, REST APIs, and Full Stack Development.
 
-⚡ Interested in React, Spring Boot, Node.js, and Database Management.
+⚡ Interested in React, Spring Boot, and Database Management.
 
 ---
 
@@ -16,20 +14,15 @@
 - 🌐 JavaScript
 - 🖥️ HTML
 - 🎨 CSS
-- 🐚 Basic Bash Scripting
 
 ### ⚙️ Backend Development
 - 🍃 Spring Boot
-- 🚂 Express.js
-- 🔗 RESTful APIs
 
 ### 🎨 Frontend Development
 - ⚛️ React.js
 
 ### 🗄️ Databases
 - 🐬 MySQL
-- 🐘 PostgreSQL
-- 🍃 MongoDB
 
 ### 🧰 Tools & Technologies
 - 🔧 Git
@@ -45,4 +38,4 @@
 ---
 
 ## ✨ Fun Fact
-I enjoy learning new technologies and building full stack applications 🚀
+I enjoy learning new technologies 🚀
